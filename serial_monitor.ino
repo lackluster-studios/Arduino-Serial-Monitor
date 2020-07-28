@@ -1,4 +1,4 @@
-//code for part seven of my arduino tutorial: https://lacklusterstudios.blogspot.com/2020/07/arduino-tutorial-serial-monitor.html
+//code for part seven of my arduino tutorial: https://lacklusterstudios.blogspot.com/2020/07/arduinot-tutorial-serial-monitor.html
 //reads a value from a phototransistor and turns on an LED when it is dark. Displays the value of phototransistor to the Serial Monitor.
 //licensed under GPL 3.0
 //Author: chris nichols (github/rteturn5)
